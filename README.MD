@@ -1,7 +1,8 @@
-# Projects .gitignore
-In this repository, You will find .gitignore files I start with, in all of my projects, and you may find useful to start and modify.
-Under each language section, I explained the tools and possible setups cases, which should be covered by this file.
+# Projects setups
+In this repository, You will find .gitignore with other template files I start with, in all of my projects, and you may find useful to start and modify.
+Under each language section, I explained the tools and possible setups cases, which should be covered.
 ## Java
+#### .gitignore
 - IDE:
     - JetBrains IntelliJ
     - Visual Studio Code
@@ -9,11 +10,22 @@ Under each language section, I explained the tools and possible setups cases, wh
 - Build tools: 
     - Maven
     - Gradle
-- OS:
+- Operating Systems:
     - MacOS
     - Windows
 
 [Direct download](Java/.gitignore)
+
+#### pom.xml
+ - Included Kotlin dependencies
+ - Included JUnit 4 dependency
+ - Java 11 by default, all tags are included, made easy to switch versions
+ - Fixed Maven build with Kotlin classes, which is broken in default implementation
+ - Default UTF-8 source encoding made platform independent
+ - Possibility to run only specified tests in Maven
+ 
+ [Direct download](Java/pom.xml)
+
 ### Credits
  - github.com
  - gitignore.io
