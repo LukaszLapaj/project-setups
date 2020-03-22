@@ -4,8 +4,8 @@
          xsi:schemaLocation="http://maven.apache.org/POM/4.0.0 http://maven.apache.org/xsd/maven-4.0.0.xsd">
     <modelVersion>4.0.0</modelVersion>
 
-    <groupId>groupId</groupId>
-    <artifactId>org.template</artifactId>
+    <groupId>org.template</groupId>
+    <artifactId>Template</artifactId>
     <version>1.0-SNAPSHOT</version>
 
     <properties>
@@ -15,7 +15,7 @@
         <project.build.sourceEncoding>UTF-8</project.build.sourceEncoding>
         <maven.compiler.target>${java.version}</maven.compiler.target>
         <maven.compiler.source>${java.version}</maven.compiler.source>
-        <maven.compiler.release>${java.version}</maven.compiler.release>
+        <!-- <maven.compiler.release>${java.version}</maven.compiler.release> -->
         <kotlin.compiler.jvmTarget>${java.version}</kotlin.compiler.jvmTarget>
     </properties>
 
@@ -144,7 +144,7 @@
                     <compilerVersion>${java.compiler}</compilerVersion>
                     <target>${java.version}</target>
                     <source>${java.version}</source>
-                    <release>${java.version}</release>
+                    <!-- <release>${java.version}</release> -->
                     <compilerArgs>
                         <arg>-Xlint:all,-processing</arg>
                     </compilerArgs>
