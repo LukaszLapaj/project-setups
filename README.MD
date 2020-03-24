@@ -26,6 +26,17 @@ Under each language section, I explained the tools and possible setups cases, wh
  
  [Direct download](Java/pom.xml)
 
+## Node.js
+#### .gitignore
+- IDE:
+    - JetBrains WebStorm
+    - Visual Studio Code
+- Operating Systems:
+    - MacOS
+    - Windows
+    
+ [Direct download](Node.js/.gitignore)
+
 ### Credits
  - github.com
  - gitignore.io
