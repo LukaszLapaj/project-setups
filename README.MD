@@ -23,6 +23,7 @@ Under each language section, I explained the tools and possible setups cases, wh
  - Fixed Maven build with Kotlin classes, which is broken in default implementation
  - Default UTF-8 source encoding made platform independent
  - Possibility to run only specified tests in Maven
+ - Default artifact file name is equal to artifactId
  
  [Direct download](Java/pom.xml)
 

@@ -166,5 +166,6 @@
                 <version>2.13</version>
             </plugin>
         </plugins>
+		<finalName>${project.artifactId}</finalName>
     </build>
 </project>
