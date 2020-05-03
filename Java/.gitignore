@@ -245,6 +245,7 @@ $RECYCLE.BIN/
 *.lnk
 
 ## gitignore.io
+# https://www.gitignore.io/api/macos,maven,gradle,kotlin,windows,eclipse,intellij,code-java,visualstudiocode
 
 ### Code-Java ###
 # Language Support for Java(TM) by Red Hat extension for Visual Studio Code - https://marketplace.visualstudio.com/items?itemName=redhat.java
