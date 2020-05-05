@@ -1,6 +1,7 @@
 # Project setups
 In this repository, You will find .gitignore with other template files I start with, in all of my projects, and you may find useful to start and modify.
-Under each language section, I explained the tools and possible setups cases, which should be covered.
+Under each language section,I explained the tools and possible setups cases, which should be covered.
+
 ## Java
 #### .gitignore
 - IDE:
@@ -13,8 +14,8 @@ Under each language section, I explained the tools and possible setups cases, wh
 - Operating Systems:
     - MacOS
     - Windows
-
-[Direct download](Java/.gitignore)
+    
+ [Direct download](Java/.gitignore)
 
 #### pom.xml
  - Included Kotlin dependencies
@@ -37,6 +38,17 @@ Under each language section, I explained the tools and possible setups cases, wh
     - Windows
     
  [Direct download](Node.js/.gitignore)
+ 
+## Python 3
+#### .gitignore
+- IDE:
+    - JetBrains PyCharm
+    - Visual Studio Code
+- Operating Systems:
+    - MacOS
+    - Windows
+        
+ [Direct download](Python 3/.gitignore)
 
 ### Credits
  - github.com
