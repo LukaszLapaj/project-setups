@@ -1,6 +1,6 @@
 # Project setups
 In this repository, You will find .gitignore with other template files I start with, in all of my projects, and you may find useful to start and modify.
-Under each language section,I explained the tools and possible setups cases, which should be covered.
+Under each language section, I explained the tools and possible setups cases, which should be covered.
 
 ## Java
 #### .gitignore
@@ -48,7 +48,7 @@ Under each language section,I explained the tools and possible setups cases, whi
     - MacOS
     - Windows
         
- [Direct download](Python 3/.gitignore)
+ [Direct download](Python%203/.gitignore)
 
 ### Credits
  - github.com
